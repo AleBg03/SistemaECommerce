@@ -1,4 +1,4 @@
-package BCED.Entity;
+package it.unina.Entity;
 
 public enum Stato {
 }

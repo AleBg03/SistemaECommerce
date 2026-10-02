@@ -1,4 +1,4 @@
-package BCED.Boundary;
+package it.unina.Boundary;
 
 import BCED.Entity.Indirizzo;
 

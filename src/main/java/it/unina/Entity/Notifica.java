@@ -1,4 +1,4 @@
-package BCED.Entity;
+package it.unina.Entity;
 
 public class Notifica {
 	private String _destinatario;

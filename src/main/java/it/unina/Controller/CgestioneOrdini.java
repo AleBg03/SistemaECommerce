@@ -1,4 +1,4 @@
-package it.unina.Control;
+package it.unina.Controller;
 
 public class CgestioneOrdini {
 	private CServizioMessaggistica _gestoreNotifiche;

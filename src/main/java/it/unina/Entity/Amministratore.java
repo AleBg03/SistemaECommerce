@@ -1,4 +1,4 @@
-package BCED.Entity;
+package it.unina.Entity;
 
 public class Amministratore extends Utente_Registrato {
 	private int _id;

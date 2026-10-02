@@ -1,4 +1,4 @@
-package BCED.Entity;
+package it.unina.Entity;
 
 public class Utente_Registrato {
 	private String _email;

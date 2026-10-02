@@ -1,4 +1,4 @@
-package BCED.Entity;
+package it.unina.Entity;
 
 import java.util.Vector;
 import BCED.Entity.Prodotto;

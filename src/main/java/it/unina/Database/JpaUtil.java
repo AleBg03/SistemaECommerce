@@ -1,4 +1,4 @@
-package BCED.Database;
+package it.unina.Database;
 
 public class JpaUtil {
 	private JpaUtil _instance;

@@ -1,4 +1,4 @@
-package BCED.Entity;
+package it.unina.Entity;
 
 public class E_commerce {
 	public Utente_Registrato _unnamed_Utente_Registrato_;
