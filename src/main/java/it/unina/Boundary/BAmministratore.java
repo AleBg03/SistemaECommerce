@@ -2,7 +2,7 @@ package it.unina.Boundary;
 
 public class BAmministratore {
 
-	public void0 onClickMonitoraggio() {
+	public void onClickMonitoraggio() {
 		throw new UnsupportedOperationException();
 	}
 
