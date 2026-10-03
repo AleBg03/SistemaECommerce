@@ -3,8 +3,9 @@ package it.unina.Controller;
 public class CGestioneAccount {
 	private List<Utente> _utenti;
 
-	public String gestisciAutenticazione(String aEmail, String aPassword) {
-		throw new UnsupportedOperationException();
+	public boolean gestisciAutenticazione(String aEmail, char[] aPassword) {
+
+		//throw new UnsupportedOperationException();
 	}
 
 	public boolean gestisciRegistrazione(String Nome, String Cognome, String Email, String Password) {
